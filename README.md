@@ -1,5 +1,5 @@
 ## Diabetes Progression Prediction – Streamlit App
-![Diabetes Prediction App Snapshot](Demo.png)
+![Diabetes Prediction App Snapshot](Diabetes Prediction App Screenshot.png)
 
 This project is a small end‑to‑end machine learning demo built with **Python**, **scikit‑learn**, and **Streamlit**.  
 It trains a **Random Forest Regressor** on the classic `load_diabetes` dataset from `sklearn.datasets` and serves an interactive web UI to make predictions.
@@ -101,5 +101,6 @@ The script prints:
 You can re‑run `train_model.py` any time to retrain the model and overwrite `model.pkl`.
 
 ---
+
 
 
