@@ -2,6 +2,7 @@
 <img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/035b2992-1e52-4da9-a1d1-5ddecc63ceae" />
 
 
+
 This project is a small end‑to‑end machine learning demo built with **Python**, **scikit‑learn**, and **Streamlit**.  
 It trains a **Random Forest Regressor** on the classic `load_diabetes` dataset from `sklearn.datasets` and serves an interactive web UI to make predictions.
 
@@ -102,6 +103,7 @@ The script prints:
 You can re‑run `train_model.py` any time to retrain the model and overwrite `model.pkl`.
 
 ---
+
 
 
 
